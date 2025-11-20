@@ -1,0 +1,5 @@
+firstNumber = int(input("Enter first number "))
+secondNumber = int(input("Enter second number "))
+print("The sum is: ", firstNumber - secondNumber)
+print("The sum is: ", firstNumber - firstNumber)
+print("The sum is: ", secondNumber - secondNumber)
