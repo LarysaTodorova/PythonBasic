@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
