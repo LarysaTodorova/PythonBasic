@@ -1,0 +1,5 @@
+print(bool(5))
+print(bool(20))
+print(bool(100))
+print(bool(-7))
+print(bool(0))
